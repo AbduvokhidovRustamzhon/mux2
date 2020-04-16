@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/AbduvokhidovRustamzhon/mux/pkg/mux"
+	"github.com/AbduvokhidovRustamzhon/mux2/pkg/mux"
 	"log"
 
 	"net/http"
